@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-course-tdea",
+  "version": "0.1.0",
+  "description": "Project created for the node.js course, first deliverable",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint *.js",
+    "start": "node index.js",
+    "listar": "node index.js listar",
+    "inscribir": "node index.js inscribir"
+  },
+  "author": "Cristian Atehortua",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
