@@ -1,6 +1,6 @@
 # Primera entrega curso virtual de Node.js
 
-Este proyecto contiene los archivos correspondientes a la solución de la primera entrega del curso virtual de Node.js
+Este proyecto contiene los archivos correspondientes a las tareas del curso virtual de Node.js del TdeA
 
 ## Instrucciones para correr el proyecto
 
